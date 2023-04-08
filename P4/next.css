@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+div {
+    height: 100px;
+    width: 500px;
+    background-color: azure;
+}
+
+h1 {
+    background-color: bisque;
+    padding-left: 30%;
+}
+
+#one {
+    background-color: aquamarine;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10%;
+    margin: auto;
+}
+
+#two {
+    background-color: aqua;
+    border-color: blueviolet;
+    border-width: 5px;
+    border-style: groove;
+    padding: 10px;
+    margin: 10%;
+}
+
+#three {
+    background-color: rgb(21, 87, 65);
+    border: 8px dotted rgb(179, 245, 189);
+    border-left-style: solid;
+}

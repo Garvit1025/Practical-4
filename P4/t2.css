@@ -1,0 +1,71 @@
+#two h1:nth-of-type(1) {
+    border: 5px solid black;
+    transform: rotate(180deg);
+    width: 100px;
+    margin: 20px auto;
+    background-color: aqua;
+}
+
+#two h1:nth-of-type(2) {
+    border: 5px solid black;
+    width: 100px;
+    background-color: rgb(68, 255, 0);
+    margin: 20px auto;
+}
+
+#two h1:nth-of-type(3) {
+    border: 5px solid black;
+    width: 100px;
+    margin: 20px auto;
+    background-color: rgb(183, 0, 255);
+}
+
+#two h1:nth-of-type(4) {
+    border: 5px solid black;
+    width: 100px;
+    margin: 20px auto;
+    background-color: rgb(255, 0, 0);
+}
+
+#two h1:nth-of-type(5) {
+    border: 5px solid black;
+    width: 100px;
+    margin: 20px auto;
+    background-color: rgb(9, 43, 43);
+}
+
+#one h1:nth-of-type(1) {
+    border: 5px solid black;
+    width: 100px;
+    margin: 20px auto;
+    background-color: aqua;
+}
+
+#one h1:nth-of-type(2) {
+    border: 5px solid black;
+    width: 100px;
+
+    margin: 20px auto;
+    background-color: rgb(68, 255, 0);
+}
+
+#one h1:nth-of-type(3) {
+    border: 5px solid black;
+    width: 100px;
+    margin: 20px auto;
+    background-color: rgb(183, 0, 255);
+}
+
+#one h1:nth-of-type(4) {
+    border: 5px solid black;
+    width: 100px;
+    margin: 20px auto;
+    background-color: rgb(255, 0, 0);
+}
+
+#one h1:nth-of-type(5) {
+    border: 5px solid black;
+    width: 100px;
+    margin: 20px auto;
+    background-color: rgb(9, 43, 43);
+}

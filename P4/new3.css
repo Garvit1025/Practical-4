@@ -1,0 +1,68 @@
+body {
+    background-color: beige;
+}
+
+button {
+    background-color: azure;
+    background-color: rgb(51, 184, 139);
+}
+
+h1,
+h2 {
+    color: rgb(83, 201, 201);
+}
+
+span {
+    color: aqua;
+}
+
+.tag {
+    font-size: medium;
+    background-color: rgb(65, 99, 88);
+}
+
+li a {
+    color: brown;
+}
+
+.firstdiv a {
+    color: black;
+    background-color: rgb(89, 149, 177);
+}
+
+p+button {
+    font-size: medium;
+    background-color: blueviolet;
+}
+
+input[type="text"] {
+    color: rgb(249, 29, 121);
+    background-color: rgb(39, 28, 122);
+}
+
+button:hover {
+    background-color: rgb(85, 35, 77);
+    color: beige;
+}
+
+.firstdiv a:hover {
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+button:active {
+    background-color: blueviolet;
+    color: brown;
+}
+
+li:nth-of-type(2n) {
+    color: blueviolet;
+}
+
+p::first-letter {
+    font-size: large;
+}
+
+p::selection {
+    background-color: blue;
+}

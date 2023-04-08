@@ -1,0 +1,18 @@
+body {
+    background-color: beige;
+}
+
+button {
+    background-color: azure;
+    background-color: rgb(51, 184, 139);
+}
+
+h1,
+h2 {
+    color: rgb(83, 201, 201);
+}
+
+#sub {
+    background-color: blue;
+    color: aqua;
+}
